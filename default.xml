@@ -5,8 +5,7 @@
            fetch="https://android.googlesource.com/" />
 
   <remote name="github"
-           fetch=".."
-           review="review.cyanogenmod.com" />
+           fetch="https://github.com/" />
 
   <default revision="refs/tags/android-4.1.2_r1"
            remote="aosp"
@@ -16,7 +15,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
-  <project path="bionic" name="CyanogenMod/bionic" remote="github" revision="jellybean" />
+  <project path="bionic" name="CyanogenMod/android_bionic" remote="github" revision="jellybean" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="platform/bootable/recovery" />
