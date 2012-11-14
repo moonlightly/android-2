@@ -29,8 +29,8 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
   <project path="device/htc/common" name="Andromadus/android_device_htc_common" remote="github" revision="jb" />
-  <project path="device/htc/msm7x30-common" name="Juansheng/android_device_htc_msm7x30-common" remote="github" revision="aosp" />
-  <project path="device/htc/vision" name="Juansheng/android_device_htc_vision" remote="github" revision="aosp" />
+  <project path="device/htc/msm7x30-common" name="Juansheng/android_device_htc_msm7x30-common" remote="github" revision="jb" />
+  <project path="device/htc/vision" name="Juansheng/android_device_htc_vision" remote="github" revision="jb" />
   <project path="device/sample" name="device/sample" />
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
@@ -301,7 +301,7 @@
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="CyanogenMod/android_system_core" remote="github" revision="jellybean" />
-  <project path="system/extras" name="Juansheng/android_system_extras" remote="github" revision="aosp" />
+  <project path="system/extras" name="Juansheng/android_system_extras" remote="github" revision="jellybean" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
