@@ -301,7 +301,7 @@
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="CyanogenMod/android_system_core" remote="github" revision="jellybean" />
-  <project path="system/extras" name="Juansheng/android_system_extras" remote="github" revision="jellybean" />
+  <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" revision="jellybean" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
