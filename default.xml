@@ -325,5 +325,6 @@
   <project path="system/security" name="platform/system/security" />
   <project path="system/su" name="CyanogenMod/android_system_su" remote="github" revision="cm-10.1" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" revision="cm-10.1" />
+  <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="github" revision="jb4.2" />
 
 </manifest>
